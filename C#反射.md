@@ -259,4 +259,4 @@ namespace ConsoleApp1
 }
 ```
 
-![](./img/123.jpg)
+![](./img/123.png)
