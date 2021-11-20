@@ -259,4 +259,4 @@ namespace ConsoleApp1
 }
 ```
 
-![](https://github.com/PengKeCpp/Notes/blob/master/img/123.jpg)
+![](./img/123.jpg)
