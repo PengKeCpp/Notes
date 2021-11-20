@@ -259,4 +259,4 @@ namespace ConsoleApp1
 }
 ```
 
-![](C:\Users\User\Desktop\C#学习\Notes\img\123.jpg)
+![](.\img\123.jpg)
