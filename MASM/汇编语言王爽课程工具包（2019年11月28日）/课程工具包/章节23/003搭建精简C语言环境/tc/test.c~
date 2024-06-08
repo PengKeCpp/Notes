@@ -1,0 +1,8 @@
+
+void main()
+{
+
+	char arr[] = "123";
+	char* arr1 = "123";
+
+}
